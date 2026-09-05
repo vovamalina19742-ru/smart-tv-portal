@@ -1,0 +1,46 @@
+{
+  "name": "Smart TV Portal (Hisense Edition)",
+  "version": "1.0.0",
+  "parameter": "menu:default",
+  "background": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/bg.jpg",
+  "logo": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/logo.png",
+  "theme": "dark",
+  "menu": [
+    {
+      "id": "federal",
+      "title": "📺 Эфирные каналы HD",
+      "icon": "tv",
+      "action": "content:https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/federal.json"
+    },
+    {
+      "id": "cinema",
+      "title": "🎬 Кино и Сериалы",
+      "icon": "movie",
+      "action": "content:https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/cinema.json"
+    },
+    {
+      "id": "sports",
+      "title": "⚽️ Спорт Онлайн HD",
+      "icon": "sports_soccer",
+      "action": "content:https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/sports.json"
+    },
+    {
+      "id": "discovery",
+      "title": "🌍 Познавательное & Наука",
+      "icon": "public",
+      "action": "content:https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/discovery.json"
+    },
+    {
+      "id": "kids_music",
+      "title": "👶 Мультфильмы и Музыка",
+      "icon": "music_note",
+      "action": "content:https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/kids_music.json"
+    },
+    {
+      "id": "lampa",
+      "title": "🍿 Кинозал Lampa (Фильмы)",
+      "icon": "local_movies",
+      "action": "link:http://lampa.mx"
+    }
+  ]
+}

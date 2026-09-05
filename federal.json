@@ -1,0 +1,62 @@
+{
+  "type": "list",
+  "headline": "📺 Федеральные и Эфирные каналы HD",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,3,4",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "title": "Первый Канал HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/1tv.png",
+      "action": "video:https://hls-1tv.cdnvideo.ru/1tv/index.m3u8"
+    },
+    {
+      "title": "Россия 1 HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/russia1.png",
+      "action": "video:https://vgtrk-live.cdnvideo.ru/russia1/index.m3u8"
+    },
+    {
+      "title": "Матч ТВ HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchtv.png",
+      "action": "video:https://matchtv.gcdn.co/hls/matchtv/index.m3u8"
+    },
+    {
+      "title": "НТВ HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/ntv.png",
+      "action": "video:https://ntv-hls.cdnvideo.ru/ntv/index.m3u8"
+    },
+    {
+      "title": "ТНТ HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/tnt.png",
+      "action": "video:https://tnt-live.cdnvideo.ru/tnt/index.m3u8"
+    },
+    {
+      "title": "СТС HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/ctc.png",
+      "action": "video:https://ctc-live.cdnvideo.ru/ctc/index.m3u8"
+    },
+    {
+      "title": "Пятница HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/friday.png",
+      "action": "video:https://friday-live.cdnvideo.ru/friday/index.m3u8"
+    },
+    {
+      "title": "РЕН ТВ HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/rentv.png",
+      "action": "video:https://rentv-live.cdnvideo.ru/rentv/index.m3u8"
+    },
+    {
+      "title": "ТВ-3 HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/tv3.png",
+      "action": "video:https://tv3-live.cdnvideo.ru/tv3/index.m3u8"
+    },
+    {
+      "title": "Пятый Канал HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/5tv.png",
+      "action": "video:https://5tv-live.cdnvideo.ru/5tv/index.m3u8"
+    }
+  ]
+}

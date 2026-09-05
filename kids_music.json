@@ -1,0 +1,32 @@
+{
+  "type": "list",
+  "headline": "👶 Мультфильмы и Музыка HD",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,3,4",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "title": "Мульт HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/mult.png",
+      "action": "video:https://kids-live.cdnvideo.ru/mult/index.m3u8"
+    },
+    {
+      "title": "Карусель HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/karusel.png",
+      "action": "video:https://kids-live.cdnvideo.ru/karusel/index.m3u8"
+    },
+    {
+      "title": "Bridge TV HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/bridgetv.png",
+      "action": "video:https://music-live.cdnvideo.ru/bridgetv/index.m3u8"
+    },
+    {
+      "title": "Муз ТВ HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/muztv.png",
+      "action": "video:https://music-live.cdnvideo.ru/muztv/index.m3u8"
+    }
+  ]
+}

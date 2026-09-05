@@ -1,0 +1,42 @@
+{
+  "type": "list",
+  "headline": "🎬 Кино и Сериалы HD",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,3,4",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "title": "Кинопоказ HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinopokaz.png",
+      "action": "video:https://kino-live.cdnvideo.ru/kinopokaz/index.m3u8"
+    },
+    {
+      "title": "Кинопремьера HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinopremiera.png",
+      "action": "video:https://kino-live.cdnvideo.ru/kinopremiera/index.m3u8"
+    },
+    {
+      "title": "Дом Кино Премиум",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/domkino.png",
+      "action": "video:https://kino-live.cdnvideo.ru/domkino/index.m3u8"
+    },
+    {
+      "title": "TV1000 Русское Кино",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/tv1000.png",
+      "action": "video:https://kino-live.cdnvideo.ru/tv1000/index.m3u8"
+    },
+    {
+      "title": "Кинокомедия HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinokomedia.png",
+      "action": "video:https://kino-live.cdnvideo.ru/kinokomedia/index.m3u8"
+    },
+    {
+      "title": "Киносемья HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinosemya.png",
+      "action": "video:https://kino-live.cdnvideo.ru/kinosemya/index.m3u8"
+    }
+  ]
+}

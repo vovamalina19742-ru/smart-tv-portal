@@ -1,0 +1,37 @@
+{
+  "type": "list",
+  "headline": "🌍 Познавательные и Научные каналы HD",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,3,4",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "title": "Discovery Channel HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/discovery.png",
+      "action": "video:https://doc-live.cdnvideo.ru/discovery/index.m3u8"
+    },
+    {
+      "title": "National Geographic HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/natgeo.png",
+      "action": "video:https://doc-live.cdnvideo.ru/natgeo/index.m3u8"
+    },
+    {
+      "title": "Моя Планета HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/myplaneta.png",
+      "action": "video:https://doc-live.cdnvideo.ru/myplaneta/index.m3u8"
+    },
+    {
+      "title": "Наука HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/nauka.png",
+      "action": "video:https://doc-live.cdnvideo.ru/nauka/index.m3u8"
+    },
+    {
+      "title": "Animal Planet HD",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/animalplanet.png",
+      "action": "video:https://doc-live.cdnvideo.ru/animalplanet/index.m3u8"
+    }
+  ]
+}

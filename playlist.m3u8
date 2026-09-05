@@ -1,0 +1,40 @@
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
+
+#EXTINF:-1 group-title="Федеральные" tvg-name="Первый канал HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/1tv.png", Первый Канал HD
+https://hls-1tv.cdnvideo.ru/1tv/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-name="Россия 1 HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/russia1.png", Россия 1 HD
+https://vgtrk-live.cdnvideo.ru/russia1/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-name="Матч ТВ HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchtv.png", Матч ТВ HD
+https://matchtv.gcdn.co/hls/matchtv/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-name="НТВ HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/ntv.png", НТВ HD
+https://ntv-hls.cdnvideo.ru/ntv/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-name="ТНТ HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/tnt.png", ТНТ HD
+https://tnt-live.cdnvideo.ru/tnt/index.m3u8
+
+#EXTINF:-1 group-title="Федеральные" tvg-name="СТС HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/ctc.png", СТС HD
+https://ctc-live.cdnvideo.ru/ctc/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-name="Кинопоказ HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinopokaz.png", Кинопоказ HD
+https://kino-live.cdnvideo.ru/kinopokaz/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-name="Дом Кино Премиум" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/domkino.png", Дом Кино Премиум HD
+https://kino-live.cdnvideo.ru/domkino/index.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-name="Матч Премьер HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchpremier.png", Матч Премьер HD
+https://matchtv.gcdn.co/hls/matchpremier/index.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-name="КХЛ ТВ HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/khl.png", КХЛ ТВ HD
+https://khl-live.cdnvideo.ru/khl/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-name="Discovery HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/discovery.png", Discovery Channel HD
+https://doc-live.cdnvideo.ru/discovery/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-name="Моя Планета HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/myplaneta.png", Моя Планета HD
+https://doc-live.cdnvideo.ru/myplaneta/index.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-name="Мульт HD" tvg-logo="https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/mult.png", Мульт HD
+https://kids-live.cdnvideo.ru/mult/index.m3u8
