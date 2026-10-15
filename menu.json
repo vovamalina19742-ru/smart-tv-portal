@@ -1,0 +1,37 @@
+{
+  "headline": "Smart TV Portal (Hisense Edition)",
+  "logo": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/logo.png",
+  "background": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/bg.jpg",
+  "menu": [
+    {
+      "icon": "tv",
+      "label": "📺 Эфирные каналы",
+      "data": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/federal.json"
+    },
+    {
+      "icon": "movie",
+      "label": "🎬 Кино и Сериалы",
+      "data": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/cinema.json"
+    },
+    {
+      "icon": "sports_soccer",
+      "label": "⚽️ Спорт Онлайн HD",
+      "data": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/sports.json"
+    },
+    {
+      "icon": "public",
+      "label": "🌍 Познавательное & Наука",
+      "data": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/discovery.json"
+    },
+    {
+      "icon": "child_care",
+      "label": "👶 Мультфильмы и Музыка",
+      "data": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/kids_music.json"
+    },
+    {
+      "icon": "video_library",
+      "label": "🍿 Кинозал Lampa",
+      "data": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/lampa.json"
+    }
+  ]
+}

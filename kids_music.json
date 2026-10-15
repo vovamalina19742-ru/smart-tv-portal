@@ -1,6 +1,6 @@
 {
   "type": "list",
-  "headline": "👶 Мультфильмы и Музыка HD",
+  "headline": "👶 Мультфильмы и Музыка",
   "template": {
     "type": "separate",
     "layout": "0,0,3,4",
@@ -9,24 +9,76 @@
   },
   "items": [
     {
-      "title": "Мульт HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/mult.png",
-      "action": "video:https://kids-live.cdnvideo.ru/mult/index.m3u8"
+      "title": "Carousel (720p)",
+      "icon": "child_care",
+      "action": "video:http://185.37.150.46/Karusel/index.m3u8",
+      "image": "https://i.imgur.com/4wmnx1W.png"
     },
     {
-      "title": "Карусель HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/karusel.png",
-      "action": "video:https://kids-live.cdnvideo.ru/karusel/index.m3u8"
+      "title": "Nickelodeon (576p)",
+      "icon": "child_care",
+      "action": "video:http://stream.mcquack.net/443/index.m3u8",
+      "image": "https://i.imgur.com/w8iE8dV.png"
     },
     {
-      "title": "Bridge TV HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/bridgetv.png",
-      "action": "video:https://music-live.cdnvideo.ru/bridgetv/index.m3u8"
+      "title": "Mult International (576p)",
+      "icon": "child_care",
+      "action": "video:https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv",
+      "image": "https://i.imgur.com/xi351Fx.png"
     },
     {
-      "title": "Муз ТВ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/muztv.png",
-      "action": "video:https://music-live.cdnvideo.ru/muztv/index.m3u8"
+      "title": "Gulli Girl (720p)",
+      "icon": "child_care",
+      "action": "video:https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+      "image": "https://i.imgur.com/lbViDuC.png"
+    },
+    {
+      "title": "STS kids International (576p)",
+      "icon": "child_care",
+      "action": "video:https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv",
+      "image": "https://i.imgur.com/o9kLpAL.png"
+    },
+    {
+      "title": "TiJi (576p)",
+      "icon": "child_care",
+      "action": "video:http://stream.mcquack.net/111/index.m3u8",
+      "image": "https://i.imgur.com/QCOUJ30.png"
+    },
+    {
+      "title": "O! (576p)",
+      "icon": "child_care",
+      "action": "video:http://stream.mcquack.net/60/index.m3u8",
+      "image": "https://i.imgur.com/pDc665V.png"
+    },
+    {
+      "title": "1HD Music Television (1080p)",
+      "icon": "child_care",
+      "action": "video:https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8",
+      "image": "https://i.imgur.com/4Ww7CsR.png"
+    },
+    {
+      "title": "BRIDGE (576p)",
+      "icon": "child_care",
+      "action": "video:http://stream.mcquack.net/318/index.m3u8",
+      "image": "https://i.imgur.com/qYObfrG.png"
+    },
+    {
+      "title": "BRIDGE Rock (576p)",
+      "icon": "child_care",
+      "action": "video:http://178.134.1.158:8081/BRIDGEROCK/index.m3u8",
+      "image": "https://i.imgur.com/MHuwct2.png"
+    },
+    {
+      "title": "BRIDGE Hits (576p)",
+      "icon": "child_care",
+      "action": "video:http://stream.mcquack.net/320/index.m3u8",
+      "image": "https://i.imgur.com/sIW9oR4.png"
+    },
+    {
+      "title": "BRIDGE Deluxe HD (576p)",
+      "icon": "child_care",
+      "action": "video:http://stream.mcquack.net/92/index.m3u8",
+      "image": "https://i.imgur.com/EazL8w7.png"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "type": "list",
-  "headline": "📺 Федеральные и Эфирные каналы HD",
+  "headline": "📺 Федеральные и Эфирные каналы",
   "template": {
     "type": "separate",
     "layout": "0,0,3,4",
@@ -9,54 +9,76 @@
   },
   "items": [
     {
-      "title": "Первый Канал HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/1tv.png",
-      "action": "video:https://hls-1tv.cdnvideo.ru/1tv/index.m3u8"
+      "title": "5 Канал",
+      "icon": "tv",
+      "action": "video:https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+      "image": "https://i.imgur.com/KPXMa3U.png"
     },
     {
-      "title": "Россия 1 HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/russia1.png",
-      "action": "video:https://vgtrk-live.cdnvideo.ru/russia1/index.m3u8"
+      "title": "360° (1080p)",
+      "icon": "tv",
+      "action": "video:https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+      "image": "https://i.imgur.com/VTJqdoX.png"
     },
     {
-      "title": "Матч ТВ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchtv.png",
-      "action": "video:https://matchtv.gcdn.co/hls/matchtv/index.m3u8"
+      "title": "12 канал (1080p)",
+      "icon": "tv",
+      "action": "video:https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+      "image": "https://i.imgur.com/OA9hm6e.png"
     },
     {
-      "title": "НТВ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/ntv.png",
-      "action": "video:https://ntv-hls.cdnvideo.ru/ntv/index.m3u8"
+      "title": "Channel 10 (576i)",
+      "icon": "tv",
+      "action": "video:https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https",
+      "image": "https://i.imgur.com/k8JjFDw.png"
     },
     {
-      "title": "ТНТ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/tnt.png",
-      "action": "video:https://tnt-live.cdnvideo.ru/tnt/index.m3u8"
+      "title": "Channel 8 Krasnoyarsk HD (1080p)",
+      "icon": "tv",
+      "action": "video:https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8",
+      "image": "https://i.imgur.com/q3JCAC3.png"
     },
     {
-      "title": "СТС HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/ctc.png",
-      "action": "video:https://ctc-live.cdnvideo.ru/ctc/index.m3u8"
+      "title": "Mir HD (1080p) [Not 24/7]",
+      "icon": "tv",
+      "action": "video:http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+      "image": "https://i.imgur.com/AqWaJT8.png"
     },
     {
-      "title": "Пятница HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/friday.png",
-      "action": "video:https://friday-live.cdnvideo.ru/friday/index.m3u8"
+      "title": "Groznyj",
+      "icon": "tv",
+      "action": "video:https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8",
+      "image": "https://i.imgur.com/yrN0Vl6.png"
     },
     {
-      "title": "РЕН ТВ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/rentv.png",
-      "action": "video:https://rentv-live.cdnvideo.ru/rentv/index.m3u8"
+      "title": "Enisey (576p)",
+      "icon": "tv",
+      "action": "video:http://tshift-1.telecoma.tv/enisei/index.m3u8",
+      "image": "https://i.imgur.com/57deE7f.png"
     },
     {
-      "title": "ТВ-3 HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/tv3.png",
-      "action": "video:https://tv3-live.cdnvideo.ru/tv3/index.m3u8"
+      "title": "Istoki (1080p)",
+      "icon": "tv",
+      "action": "video:https://istoki.tv/live/stream1/playlist.m3u8",
+      "image": "https://istoki.tv/local/templates/istoki_new/img/logo.png"
     },
     {
-      "title": "Пятый Канал HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/5tv.png",
-      "action": "video:https://5tv-live.cdnvideo.ru/5tv/index.m3u8"
+      "title": "360° Новости (1080p)",
+      "icon": "tv",
+      "action": "video:https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+      "image": "https://i.imgur.com/YXDeX8q.png"
+    },
+    {
+      "title": "Che! (576p)",
+      "icon": "tv",
+      "action": "video:http://flussonic.linkintel.ru/che/index.m3u8",
+      "image": "https://i.imgur.com/ZOcDGpB.png"
+    },
+    {
+      "title": "2x2 (576i)",
+      "icon": "tv",
+      "action": "video:https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https",
+      "image": "https://i.imgur.com/fhQFLEl.png"
     }
   ]
 }

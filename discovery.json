@@ -1,6 +1,6 @@
 {
   "type": "list",
-  "headline": "🌍 Познавательные и Научные каналы HD",
+  "headline": "🌍 Познавательное & Наука",
   "template": {
     "type": "separate",
     "layout": "0,0,3,4",
@@ -9,29 +9,76 @@
   },
   "items": [
     {
-      "title": "Discovery Channel HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/discovery.png",
-      "action": "video:https://doc-live.cdnvideo.ru/discovery/index.m3u8"
+      "title": "National Geographic (576p)",
+      "icon": "public",
+      "action": "video:http://stream.mcquack.net/116/index.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png"
     },
     {
-      "title": "National Geographic HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/natgeo.png",
-      "action": "video:https://doc-live.cdnvideo.ru/natgeo/index.m3u8"
+      "title": "365 days TV (576p)",
+      "icon": "public",
+      "action": "video:http://stream.mcquack.net/70/index.m3u8",
+      "image": "https://i.imgur.com/NfnAiTR.png"
     },
     {
-      "title": "Моя Планета HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/myplaneta.png",
-      "action": "video:https://doc-live.cdnvideo.ru/myplaneta/index.m3u8"
+      "title": "Arsenal (576p)",
+      "icon": "public",
+      "action": "video:https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8",
+      "image": "https://i.imgur.com/DBpVeb0.png"
     },
     {
-      "title": "Наука HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/nauka.png",
-      "action": "video:https://doc-live.cdnvideo.ru/nauka/index.m3u8"
+      "title": "Nano HD (1080p)",
+      "icon": "public",
+      "action": "video:http://185.23.80.23:8080/NANO_HD/index.m3u8",
+      "image": "https://i.imgur.com/dYj3XDa.png"
     },
     {
-      "title": "Animal Planet HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/animalplanet.png",
-      "action": "video:https://doc-live.cdnvideo.ru/animalplanet/index.m3u8"
+      "title": "RT Documentary Russian (1080p)",
+      "icon": "public",
+      "action": "video:https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
+      "image": "https://i.imgur.com/aeu5zIC.png"
+    },
+    {
+      "title": "Tochka RF (1080p)",
+      "icon": "public",
+      "action": "video:http://stream.mcquack.net/161/index.m3u8",
+      "image": "https://i.imgur.com/tKgmhxh.png"
+    },
+    {
+      "title": "viju History (576p)",
+      "icon": "public",
+      "action": "video:http://178.124.179.122:8080/HistoryHD/index.m3u8",
+      "image": "https://i.imgur.com/FqWkeXb.png"
+    },
+    {
+      "title": "viju Explore (576p)",
+      "icon": "public",
+      "action": "video:http://stream.mcquack.net/239/index.m3u8",
+      "image": "https://i.imgur.com/EGIpLPu.png"
+    },
+    {
+      "title": "viju+ Planet HD (1080p)",
+      "icon": "public",
+      "action": "video:http://stream.mcquack.net/240/index.m3u8",
+      "image": "https://i.imgur.com/9Weqdsk.png"
+    },
+    {
+      "title": "viju Nature (576p)",
+      "icon": "public",
+      "action": "video:https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
+      "image": "https://i.imgur.com/8BPZ18l.png"
+    },
+    {
+      "title": ".sci-fi (576p)",
+      "icon": "public",
+      "action": "video:http://stream.mcquack.net/180/index.m3u8",
+      "image": "https://i.imgur.com/nSSUHcg.png"
+    },
+    {
+      "title": "Smotrim 100% Fakty (720p)",
+      "icon": "public",
+      "action": "video:https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+      "image": "https://i.imgur.com/dB3cJzO.png"
     }
   ]
 }

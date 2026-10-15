@@ -9,34 +9,76 @@
   },
   "items": [
     {
-      "title": "Кинопоказ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinopokaz.png",
-      "action": "video:https://kino-live.cdnvideo.ru/kinopokaz/index.m3u8"
+      "title": "Dom kino Premium HD (1080p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/108/index.m3u8",
+      "image": "https://i.imgur.com/rJpQtvK.png"
     },
     {
-      "title": "Кинопремьера HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinopremiera.png",
-      "action": "video:https://kino-live.cdnvideo.ru/kinopremiera/index.m3u8"
+      "title": "Dom kino (576p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/236/index.m3u8",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png"
     },
     {
-      "title": "Дом Кино Премиум",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/domkino.png",
-      "action": "video:https://kino-live.cdnvideo.ru/domkino/index.m3u8"
+      "title": "Cinema (576p)",
+      "icon": "movie",
+      "action": "video:http://flussonic.linkintel.ru/cinema/index.m3u8",
+      "image": "https://i.imgur.com/b5e9qUA.png"
     },
     {
-      "title": "TV1000 Русское Кино",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/tv1000.png",
-      "action": "video:https://kino-live.cdnvideo.ru/tv1000/index.m3u8"
+      "title": "Amedia Hit (1080p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/162/index.m3u8",
+      "image": "https://i.imgur.com/a8ZBGBw.png"
     },
     {
-      "title": "Кинокомедия HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinokomedia.png",
-      "action": "video:https://kino-live.cdnvideo.ru/kinokomedia/index.m3u8"
+      "title": "Blokbaster HD (1080p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/364/index.m3u8",
+      "image": "https://i.imgur.com/KcOi4Os.png"
     },
     {
-      "title": "Киносемья HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/kinosemya.png",
-      "action": "video:https://kino-live.cdnvideo.ru/kinosemya/index.m3u8"
+      "title": "Evrokino HD (1080p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/385/index.m3u8",
+      "image": "https://i.imgur.com/8LPtPf6.png"
+    },
+    {
+      "title": "Dorama HD (1080p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/412/index.m3u8",
+      "image": "https://i.imgur.com/ZH5LuXU.png"
+    },
+    {
+      "title": "Kinomix (576p)",
+      "icon": "movie",
+      "action": "video:http://93.170.254.17/Kinomiks/index.m3u8",
+      "image": "https://i.imgur.com/D4q2XUT.png"
+    },
+    {
+      "title": "KinoHit (576p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/126/index.m3u8",
+      "image": "https://i.imgur.com/Ge8vkQM.png"
+    },
+    {
+      "title": "Bollywood HD Russia (576p)",
+      "icon": "movie",
+      "action": "video:https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+      "image": "https://i.imgur.com/scDKOLS.png"
+    },
+    {
+      "title": ".red HD (1080p)",
+      "icon": "movie",
+      "action": "video:http://178.134.1.158:8081/red/index.m3u8",
+      "image": "https://i.imgur.com/GET9Qut.png"
+    },
+    {
+      "title": ".black (576p)",
+      "icon": "movie",
+      "action": "video:http://stream.mcquack.net/263/index.m3u8",
+      "image": "https://i.imgur.com/Q4A6ci4.png"
     }
   ]
 }

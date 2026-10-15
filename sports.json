@@ -1,6 +1,6 @@
 {
   "type": "list",
-  "headline": "⚽️ Спортивные каналы HD",
+  "headline": "⚽️ Спорт Онлайн HD",
   "template": {
     "type": "separate",
     "layout": "0,0,3,4",
@@ -9,34 +9,76 @@
   },
   "items": [
     {
-      "title": "Матч ТВ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchtv.png",
-      "action": "video:https://matchtv.gcdn.co/hls/matchtv/index.m3u8"
+      "title": "KHL Prime (1080p)",
+      "icon": "sports_soccer",
+      "action": "video:http://stream.mcquack.net/178/index.m3u8",
+      "image": "https://i.imgur.com/pwxT0ON.png"
     },
     {
-      "title": "Матч Премьер HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchpremier.png",
-      "action": "video:https://matchtv.gcdn.co/hls/matchpremier/index.m3u8"
+      "title": "Match! Boets (576p)",
+      "icon": "sports_soccer",
+      "action": "video:http://stream.mcquack.net/112/index.m3u8",
+      "image": "https://i.imgur.com/DogOkA4.png"
     },
     {
-      "title": "Матч Футбол 1 HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchfutbol1.png",
-      "action": "video:https://matchtv.gcdn.co/hls/matchfutbol1/index.m3u8"
+      "title": "Match! Planeta (576p)",
+      "icon": "sports_soccer",
+      "action": "video:https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv",
+      "image": "https://i.imgur.com/vhyMb9D.png"
     },
     {
-      "title": "Матч Футбол 2 HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchfutbol2.png",
-      "action": "video:https://matchtv.gcdn.co/hls/matchfutbol2/index.m3u8"
+      "title": "Match! Ultra (720p)",
+      "icon": "sports_soccer",
+      "action": "video:http://stream.mcquack.net/169/index.m3u8",
+      "image": "https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg"
     },
     {
-      "title": "Матч Боец HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/matchboec.png",
-      "action": "video:https://matchtv.gcdn.co/hls/matchboec/index.m3u8"
+      "title": "Okko Sport (1080p)",
+      "icon": "sports_soccer",
+      "action": "video:http://stream.mcquack.net/492/index.m3u8",
+      "image": "https://i.imgur.com/SYOaOQc.png"
     },
     {
-      "title": "КХЛ ТВ HD",
-      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/khl.png",
-      "action": "video:https://khl-live.cdnvideo.ru/khl/index.m3u8"
+      "title": "Okko Futbol (1080p)",
+      "icon": "sports_soccer",
+      "action": "video:http://stream.mcquack.net/491/index.m3u8",
+      "image": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png"
+    },
+    {
+      "title": "Okko Prajm Sport (1080p)",
+      "icon": "sports_soccer",
+      "action": "video:http://stream.mcquack.net/493/index.m3u8",
+      "image": "https://i.imgur.com/kQq5DMU.png"
+    },
+    {
+      "title": "Sportivnyy (1080p)",
+      "icon": "sports_soccer",
+      "action": "video:https://live-3.otcnet.ru/sportivny/index.m3u8",
+      "image": "https://i.imgur.com/ujS6mMo.png"
+    },
+    {
+      "title": "MMA TV.com (1080p)",
+      "icon": "sports_soccer",
+      "action": "video:https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+      "image": "https://i.imgur.com/QhdxNsB.png"
+    },
+    {
+      "title": "UDAR (1080p)",
+      "icon": "sports_soccer",
+      "action": "video:http://5.188.159.128:8070/udar/index.m3u8",
+      "image": "https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png"
+    },
+    {
+      "title": "Trace Sport Stars Russia (720p)",
+      "icon": "sports_soccer",
+      "action": "video:https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
+      "image": "https://i.imgur.com/FabFP5A.png"
+    },
+    {
+      "title": "viju+ Sport (576p)",
+      "icon": "sports_soccer",
+      "action": "video:http://stream.mcquack.net/333/index.m3u8",
+      "image": "https://i.imgur.com/fXESG0l.png"
     }
   ]
 }

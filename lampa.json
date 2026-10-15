@@ -1,0 +1,26 @@
+{
+  "type": "list",
+  "headline": "🍿 Онлайн Кинотеатры",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,4,4",
+    "color": "msx-glass",
+    "icon": "local_movies"
+  },
+  "items": [
+    {
+      "title": "Lampa (Web App)",
+      "label": "Онлайн-кинотеатр для Smart TV / VIDAA",
+      "icon": "movie",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/lampa.png",
+      "action": "link:http://lampa.mx"
+    },
+    {
+      "title": "Lampa (HTTPS Mirror)",
+      "label": "Зеркало Lampa по защищенному протоколу",
+      "icon": "movie",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/lampa.png",
+      "action": "link:https://lampa.mx"
+    }
+  ]
+}
