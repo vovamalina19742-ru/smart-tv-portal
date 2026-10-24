@@ -1,6 +1,6 @@
 {
   "type": "list",
-  "headline": "🍿 Онлайн Кинотеатры",
+  "headline": "🍿 Онлайн Кинотеатры & Стриминг",
   "template": {
     "type": "separate",
     "layout": "0,0,4,4",
@@ -21,6 +21,20 @@
       "icon": "movie",
       "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/lampa.png",
       "action": "link:https://lampa.mx"
+    },
+    {
+      "title": "Stremio Web (4K HDR)",
+      "label": "Облачный кинотеатр: фильмы и сериалы без ожидания",
+      "icon": "ondemand_video",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/logo.png",
+      "action": "link:https://web.stremio.com"
+    },
+    {
+      "title": "Nuvio Streaming Hub",
+      "label": "Стриминговый плеер нового поколения",
+      "icon": "play_circle_filled",
+      "image": "https://raw.githubusercontent.com/vovamalina19742-ru/smart-tv-portal/main/assets/logo.png",
+      "action": "link:https://app.nuvio.tv"
     }
   ]
 }
